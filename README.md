@@ -63,11 +63,15 @@ https://www.youtube.com/watch?v=YliCNjBy4No&t=1s
 
 ### Example Detection
 
-Input:
+### Input:
 ```text
 Free GTA download here: http://example.com/test.exe
+```
 
-Output: ⚠️ WARN — Suspicious gaming-related keywords detected
+### Output: 
+```text
+⚠️ WARN — Suspicious gaming-related keywords detected
+```
 
 ---
 
